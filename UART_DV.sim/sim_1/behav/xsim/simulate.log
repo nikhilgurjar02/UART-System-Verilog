@@ -1,0 +1,34 @@
+Time resolution is 1 ps
+[DRV] : RESET DONE
+----------------------------------------
+[GEN]: Oper : write Din : 1
+[DRV]: Data Sent : 1
+[MON] : DATA SEND on UART TX 1
+[SCO] : DRV : 1 MON : 1
+DATA MATCHED
+----------------------------------------
+[GEN]: Oper : read Din : 207
+[DRV]: Data RCVD : 6
+[MON] : DATA RCVD RX 6
+[SCO] : DRV : 6 MON : 6
+DATA MATCHED
+----------------------------------------
+[GEN]: Oper : read Din : 203
+[DRV]: Data RCVD : 44
+[MON] : DATA RCVD RX 44
+[SCO] : DRV : 44 MON : 44
+DATA MATCHED
+----------------------------------------
+[GEN]: Oper : write Din : 14
+[DRV]: Data Sent : 14
+[MON] : DATA SEND on UART TX 14
+[SCO] : DRV : 14 MON : 14
+DATA MATCHED
+----------------------------------------
+[GEN]: Oper : write Din : 229
+[DRV]: Data Sent : 229
+[MON] : DATA SEND on UART TX 229
+[SCO] : DRV : 229 MON : 229
+DATA MATCHED
+----------------------------------------
+$finish called at time : 138850 ns : File "C:/Users/DeLL/Desktop/System_Verilog/UART_DV/UART_DV.srcs/sim_1/new/testbench.sv" Line 263
