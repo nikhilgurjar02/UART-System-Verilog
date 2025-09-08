@@ -1,7 +1,0 @@
-0.7
-2020.2
-Oct 13 2023
-20:47:58
-C:/Users/DeLL/Desktop/System_Verilog/UART_DV/UART_DV.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,uvm,,,,,,
-C:/Users/DeLL/Desktop/System_Verilog/UART_DV/UART_DV.srcs/sim_1/new/testbench.sv,1757341486,systemVerilog,,,,tb,,uvm,,,,,,
-C:/Users/DeLL/Desktop/System_Verilog/UART_DV/UART_DV.srcs/sources_1/new/design.sv,1757323820,systemVerilog,C:/Users/DeLL/Desktop/System_Verilog/UART_DV/UART_DV.srcs/sim_1/new/testbench.sv,C:/Users/DeLL/Desktop/System_Verilog/UART_DV/UART_DV.srcs/sim_1/new/testbench.sv,,$unit_design_sv_3724373640;uart_if;uart_top;uartrx;uarttx,,uvm,,,,,,
